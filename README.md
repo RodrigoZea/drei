@@ -4329,7 +4329,7 @@ type RandomizedLightProps = JSX.IntrinsicElements['group'] & {
 <RandomizedLight castShadow amount={8} frames={100} position={[5, 5, -10]} />
 ```
 
-#### Refernce api
+#### Reference api
 
 ```jsx
 interface AccumulativeLightContext {
